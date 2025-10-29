@@ -1,0 +1,28 @@
+This Excel project models a real-world disease outbreak monitoring system.
+It demonstrates how analysts can integrate multiple healthcare datasets, perform data transformation, and design an interactive dashboard — all within Excel.
+
+Project Overview
+The workbook includes four core sheets that work together:
+Cases – Records daily confirmed, recovered, and quarantined cases across regions with demographics and testing rates.
+Capacity – Tracks hospital resources: bed counts, ICU availability, staff, and equipment.
+Interventions – Encodes qualitative public health measures (lockdowns, tracing, vaccination rates) into numeric form for analysis.
+Dashboard – Displays KPIs, charts, and filters for real-time outbreak monitoring.
+
+Key Features
+Multi-sheet integration to simulate real healthcare data systems
+Dynamic KPIs: Confirmed, Recovered, Quarantined, and Recovery Rate
+Interactive slicers and timelines for flexible filtering by region, age group, and case type
+GETPIVOTDATA automation for responsive KPI calculations
+Encoded categorical data (e.g., Yes/No, High/Low) for improved analytical modeling
+Clean dashboard visualization with color-coded health indicators
+Dummy dataset designed for scalability and EHR migration use cases
+
+Skills Demonstrated
+Excel | Data Cleaning | PivotTables | GETPIVOTDATA | IF Functions | Dashboard Design | Healthcare Analytics | Data Encoding
+
+Why It Matters
+This project simulates the core logic behind public health surveillance dashboards.
+It shows how Excel can evolve from a basic spreadsheet into a functional data intelligence tool capable of handling multi-source healthcare data — ideal for data analysts, HIM professionals, and health operations teams.
+
+Created by: Shonda Holloway
+Repository: Disease Outbreak Monitoring Dashboard
